@@ -137,3 +137,8 @@ btnNew.addEventListener('click', init);
 // git branch (newOfBranch)
 // git checkout (newOfBranch)
 // git merge (newOfBranch)
+
+// shortcut
+// git init
+// git status
+// git commit -a -m
