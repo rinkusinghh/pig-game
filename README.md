@@ -1,1 +1,2 @@
-# pig-game Project
+# pig game app
+
